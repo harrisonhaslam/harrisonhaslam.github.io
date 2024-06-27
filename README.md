@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Project 1](www.google.com)
+![Project 1](https://www.google.com)
 
 ```
 function test() {
