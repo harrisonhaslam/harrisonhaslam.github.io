@@ -2,6 +2,17 @@
 
 ### Education
 
+### Projects
+
+[Project 1](www.google.com)
+
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
+
+
 
 ### Work Experience
 - job1
