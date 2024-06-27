@@ -6,6 +6,13 @@
 
 [image link](https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg)
 
+Open in a new tab:
+[my-link]{:target="_blank"} within a sentence and  [my-link]: http://google.com for referencing. (Note that there are two leading spaces).
+
+
+[image link](https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg){:target="_blank"}
+[https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg]{:target="_blank"}
+
 
 ```
 function test() {
